@@ -58,6 +58,7 @@ a:active {
 }
 
 .neon {
+  font-size:7vw;
   color: #FF10F0;
   text-shadow:
     0 0 5px #FF10F0,
