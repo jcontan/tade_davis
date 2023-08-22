@@ -1,23 +1,22 @@
 a:any-link {
-  color: pink;
+  color: #FF5733;
   }
 
 a:visited {
-  color: pink;
+  color: #FF5733;
   }
 
 a:hover {
-  color: purple;
-  cursor: crosshair;
+  color: #9D00FF;
   }
 
 a:active {
-  color: pink;
+  color: #FF5733;
   }
 
 .logo {
   width: 50%;
-  max-width: 700px;
+  max-width: 1000px;
   height: auto;
 }
 
@@ -33,7 +32,7 @@ a:active {
 }
 
 .card {
-  background-color: black;
+  background-color: white;
   padding: 20px;
   margin-top: 20px;
 }
