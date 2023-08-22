@@ -57,3 +57,18 @@ a:active {
   }
 }
 
+.neon {
+  color: #FF10F0;
+  text-shadow:
+    0 0 5px #FF10F0,
+    0 0 10px #FF10F0,
+    0 0 20px #FF10F0,
+    0 0 40px #FF10F0,
+    0 0 80px #FF10F0,
+    0 0 90px #FF10F0,
+    0 0 100px #FF10F0,
+    0 0 150px #FF10F0;
+}
+
+
+
