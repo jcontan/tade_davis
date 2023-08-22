@@ -1,0 +1,60 @@
+a:any-link {
+  color: pink;
+  }
+
+a:visited {
+  color: pink;
+  }
+
+a:hover {
+  color: purple;
+  cursor: crosshair;
+  }
+
+a:active {
+  color: pink;
+  }
+
+.logo {
+  width: 50%;
+  max-width: 700px;
+  height: auto;
+}
+
+.leftcolumn { 
+  float: left;
+  width: 75%;
+}
+
+.rightcolumn {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
+
+.card {
+  background-color: black;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.footer {
+  padding: 20px;
+  text-align: left;
+  background: black;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn { 
+    width: 100%;
+    padding: 0;
+  }
+}
+
